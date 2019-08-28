@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "685175507825",
+    "firebase_url": "https://uberarabia-95f2c.firebaseio.com",
+    "project_id": "uberarabia-95f2c",
+    "storage_bucket": "uberarabia-95f2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685175507825:android:ea976a77a578d3c5",
+        "android_client_info": {
+          "package_name": "com.arabiait.arabiauber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685175507825-po7s20glchu1gbfecgvomhvbfvmi2pst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arabiait.arabiauber",
+            "certificate_hash": "84e045b95e27df8de7702914af9e58d8e42f14b9"
+          }
+        },
+        {
+          "client_id": "685175507825-148bepp903s2b50crc8v9lugbgof3htc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUNvYgfhPh8hBzvtPgdLuu1JDqY-g3R5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685175507825-148bepp903s2b50crc8v9lugbgof3htc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
